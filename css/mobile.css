@@ -1,0 +1,190 @@
+@media screen and (max-width: 785px) {
+    .register{
+        width: 60%;
+        left: 20%;
+    }
+}
+@media screen and (max-width: 470px) {
+    .logo{
+        font-size: 25px;
+    }
+    .header_inner{
+        padding: 0 10px;
+    }
+    .login{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 665px) {
+    .logo{
+        font-size: 25px;
+    }
+}
+@media screen and (max-width: 821px) {
+    .title_p{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 667px) {
+        .header{
+            padding: 150px 0 0 50px;
+        }
+        .title_h1{
+            font-size: 25px;
+        }
+        .titles{
+            width: 60%;
+        }
+}
+@media screen and (max-width: 667px) {
+        .titles{
+            width: 80%;
+            margin: 0 auto;
+            background-color: rgba(0, 0, 0, 0.8);
+            padding: 10px 0;
+            border-radius: 20px;
+        }
+        .title_p{
+            font-size: 18px;
+        }
+        .header{
+            padding: 110px 0 0 0;
+        }
+}
+@media screen and (max-width: 362px) {
+    .logo{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 955px) {
+    .contact{
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 527px) {
+    .service_text{
+        font-size: 20px;
+        width: 100%;
+    }
+    .service_title{
+        text-align: center;
+    }
+}
+@media screen and (max-width: 664px) {
+    .services{
+        display: block;
+    }
+    .servic_1{
+        margin: 0 auto;
+        padding: 50px 0 60px 0px;
+        text-align: center;
+    }
+    .servic_2{
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 791px) {
+    .room_1{
+        flex-wrap: wrap;
+        margin-left: 0;
+        margin: 0 auto;
+    }
+    .room_1 img{
+        margin: 0 auto;
+        width: 80%;
+        height: 40%;
+    }
+    .room_1_titles{
+        padding-top: 10px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .room_1_titles p{
+        text-align :center ;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+
+    .room_line{
+        display: block;
+        width: 90%;
+        height: 1px;
+        margin: 0 auto;
+        background-color: #fff;
+    }
+
+    /* room-2 */
+
+    .room_2{
+        flex-wrap: wrap;
+        margin: 0 auto;
+        padding-bottom: 50px;
+    }
+    .room_2 img{
+        margin: 0 auto;
+        width: 80%;
+        height: 40%;
+    }
+    .room_2_titles{
+        padding-top: 10px;
+        margin: 0 auto;
+        text-align: center;
+        padding-top: 50px;
+    }
+    .room_2_titles p{
+        text-align :center ;
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .room_3{
+        padding-top: 50px;
+    }
+}
+
+@media screen and (max-width: 473px){
+    .room_1_titles{
+       width: 90%;
+    }
+    .room_1 img{
+        margin: 0 auto;
+        width: 100%;
+        height: 40%;
+    }
+
+    .room_2_titles{
+        width: 90%;
+     }
+     .room_2 img{
+         margin: 0 auto;
+         width: 100%;
+         height: 40%;
+     }
+} 
+
+@media screen and (max-width: 979px){
+    .footer_bottom_c{
+        margin: 0 auto;
+        margin-top: 70px;
+    }
+}
+
+@media screen and (max-width: 487px){
+    .footer_bottom_c textarea{
+        width: 80%;
+        height: 200px;
+        margin: 0 auto
+    }
+    .form{
+        margin: 0 auto;
+    }
+
+    .footer_bottom_a{
+        margin: 0 auto;
+        padding-bottom: 70px;
+    }
+    .footer_bottom_b{
+        margin: 0 auto;
+    }
+}
